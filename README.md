@@ -4,7 +4,7 @@ Design: The project's primary data structure is the Inverted Index, which is a m
 Term Frequency (TF) Weighing: The term frequency weighing scheme assigns a weight proportional to the frequency of the term in the document.
 TF-IDF Weighing: The TF-IDF (Term Frequency-Inverse Document Frequency) weighing scheme assigns a weight that is proportional to the term frequency in the document and inversely proportional to the term's frequency in the entire collection of documents.
 Process for executing the Search Engine:
-This is a simple program written in Python that creates a basic search engine using the vector space model. The computer program looks at different files with information about things like documents, questions, and words that aren't useful for searching. It gets the information ready for searching by organizing it into helpful lists.
+This is a  program written in Python that creates a  search engine using the vector space model. The computer program looks at different files with information about things like documents, questions, and words that aren't useful for searching. It gets the information ready for searching by organizing it into helpful lists.
 
 In simple terms, preprocessing means breaking up the text into words, taking out commonly used words, shortening the remaining words, and listing each word with how many times it appears in different documents.
 
